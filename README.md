@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @erinyant
+- 👋 Hi, I’m Erin Yant
 - 👀 I’m interested in art, fitness, health, nutrition, and the great outdoors
 - 🌱 I’m currently learning Full Stack Development at Flatiron School
-- 👩🏻‍💻 I’m looking to collaborate on Python and Flask projects
+- 👩🏻‍💻 I’m looking to collaborate on Python and Flask projects, and learn new coding languages
 - 📫 How to reach me: ghosrider383@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun facts: I paint and draw in my spare time, I have 3 black and white pitbulls, and I love to cook.
+- ⚡ Fun facts: I paint, draw, and write in my spare time. I have 3 black and white pitbulls, and I love to cook.
 
 <!---
 erinyant/erinyant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
